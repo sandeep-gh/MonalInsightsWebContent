@@ -1,0 +1,18 @@
+
+* Actions
+composite bands
+ansharpen, perform NDVI, clip rasters
+
+* Problem
+** LandCoverChange
+** Methane detection
+** Oil Slick detection
+** crop disease
+
+* Vocabulary
+date-range
+a region of the earth ==> covering tiles
+tile bank cache: 
+
+
+
